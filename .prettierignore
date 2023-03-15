@@ -1,0 +1,13 @@
+dist
+node_modules
+.gitignore
+.eslintignore
+.prettierignore
+.editorconfig
+.stylelintrc
+.huskyrc
+**/assets
+.png
+*.png
+**/*.svg
+
