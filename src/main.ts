@@ -4,4 +4,4 @@ import App from './App.vue'
 
 createApp(App).mount('#app')
 
-const t = { ss: 'sss' };
+const t = { ss: 'sss' }
