@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
-
-const r = '111'
 </script>
 
 <template>
