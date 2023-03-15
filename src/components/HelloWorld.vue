@@ -3,10 +3,6 @@ import { ref } from 'vue'
 
 defineProps<{ msg: string }>()
 
-const s = ref({
-  d: 'sd',
-})
-
 const count = ref(0)
 </script>
 
