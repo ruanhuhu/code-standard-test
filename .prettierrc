@@ -10,7 +10,7 @@
   "htmlWhitespaceSensitivity": "ignore",
   "overrides": [
     {
-      "files": ".prettierrc",
+      "files": [".prettierrc", ".lintstagedrc"],
       "options": {
         "parser": "json"
       }

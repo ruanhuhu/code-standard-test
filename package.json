@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
-    "format": "prettier -c --write --cache .",
+    "prettier": "prettier -c --write --cache .",
     "pretty-quick": "pretty-quick",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx,.vue .",
     "prepare": "husky install"
@@ -21,6 +21,7 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.9.0",
     "husky": "^8.0.0",
